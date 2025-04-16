@@ -1,7 +1,7 @@
 class Solution {
     public int hammingWeight(int n) {
-        return solveByString(n);
-        // return solveByBitwise(n);
+        // return solveByString(n);
+        return solveByBitwise(n);
         // return solveByBrianKernighan(n);
     }
 
