@@ -1,8 +1,8 @@
 class Solution {
     public int hammingWeight(int n) {
         // return solveByString(n);
-        return solveByBitwise(n);
-        // return solveByBrianKernighan(n);
+        // return solveByBitwise(n);
+        return solveByBrianKernighan(n);
     }
 
     // Brian Kernighan’s 알고리즘 풀이
