@@ -1,16 +1,16 @@
 class Solution {
     public int evalRPN(String[] tokens) {
-        Stack<String> stack = new Stack<>();
+        Stack<Integer> stack = new Stack<>();
         for (String token : tokens) {
             if (token.matches("-?\\d+")) {
-                stack.push(token);
+                stack.push(Integer.parseInt(token));
             } else {
-                int a = Integer.parseInt(stack.pop());
-                int b = Integer.parseInt(stack.pop());
-                stack.push(String.valueOf(operate(b, a, token)));
+                int a = stack.pop();
+                int b = stack.pop();
+                stack.push(operate(b, a, token));
             }
         }
-        return Integer.parseInt(stack.pop());
+        return stack.pop();
     }
 
     private int operate(int a, int b, String operate) {
