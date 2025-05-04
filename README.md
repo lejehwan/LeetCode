@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/lejehwan/LeetCode/tree/master/0112-path-sum) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/lejehwan/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/lejehwan/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Design
@@ -21,10 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/lejehwan/LeetCode/tree/master/0112-path-sum) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/lejehwan/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/lejehwan/LeetCode/tree/master/0112-path-sum) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/lejehwan/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Search Tree
 |  |
@@ -33,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/lejehwan/LeetCode/tree/master/0112-path-sum) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/lejehwan/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Divide and Conquer
 |  |
