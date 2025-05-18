@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/lejehwan/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/lejehwan/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Tree
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/lejehwan/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/lejehwan/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Math
 |  |
