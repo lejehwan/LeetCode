@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/lejehwan/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0383-ransom-note](https://github.com/lejehwan/LeetCode/tree/master/0383-ransom-note) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -58,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/lejehwan/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+## Hash Table
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/lejehwan/LeetCode/tree/master/0383-ransom-note) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/lejehwan/LeetCode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
