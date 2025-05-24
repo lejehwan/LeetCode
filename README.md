@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lejehwan/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/lejehwan/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/lejehwan/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/lejehwan/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 ## Math
 |  |
 | ------- |
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lejehwan/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/lejehwan/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 <!---LeetCode Topics End-->
