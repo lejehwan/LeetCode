@@ -47,12 +47,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/lejehwan/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/lejehwan/LeetCode/tree/master/0191-number-of-1-bits) |
 ## Array
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lejehwan/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/lejehwan/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0136-single-number](https://github.com/lejehwan/LeetCode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/lejehwan/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/lejehwan/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 ## Math
